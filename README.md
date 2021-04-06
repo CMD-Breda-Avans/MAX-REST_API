@@ -18,7 +18,8 @@ https://github.com/jeremybernstein/shell/releases/tag/1.0b2
 
 To get our API data do something in the physical world we can trigger stuff on a Arduino. 
 In this rep you'll find a simple arduino sketch to parse ints we send from Max.
-See the file Serialread_fromMax.ino
+See the file Serialread_fromMax.ino.
+
 
 For non Max... javascript based web API stuff i highly recommend:
 Daniel Shiffman // The Coding Train. // Working with Data and APIs in JavaScript --- https://youtu.be/DbcLg8nRWEg
