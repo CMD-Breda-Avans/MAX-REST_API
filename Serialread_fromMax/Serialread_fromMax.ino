@@ -1,8 +1,8 @@
 // By Mark Meeuwenoord
 
 
-int offSet = 1;
-int maxPins = 12;
+int offSet = 0;
+int maxPins = 13;
 boolean debug = false;
 
 void setup() {
