@@ -1,6 +1,6 @@
 # MAX-REST_API
 
-A basic starter to use the maxurl object to access web (REST) API's.
+A basic starter to use the maxurl object to access web (REST) API's by Mark Meeuwenoord 2024
 
 Some sources to get you started:
 
